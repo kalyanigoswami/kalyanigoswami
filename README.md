@@ -3,16 +3,15 @@
   <img src="./assets/banner.svg" width="100%" alt="Hi, I'm Kalyani: Software Engineer · Mobile Application Developer · AI Builder">
 </p>
 
-<!-- QUICK FACTS -->
+<!-- QUICK FACTS + BADGES -->
 <p align="center">
   <img src="./assets/status.svg" width="100%" alt="Status: open to collaborate · Now building: Offloop · Focus: Mobile apps & AI · Based in: India">
-</p>
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kalyanigoswami.kalyanigoswami&left_text=profile%20views&left_color=%23161b22&right_color=%2321262d" alt="profile views">
-  <img src="https://img.shields.io/github/followers/kalyanigoswami?label=followers&logo=github&logoColor=ff5c5c&labelColor=161b22&color=21262d&style=flat-square" alt="followers">
-  <img src="https://img.shields.io/github/stars/kalyanigoswami?affiliations=OWNER&label=stars&logo=github&logoColor=ff5c5c&labelColor=161b22&color=21262d&style=flat-square" alt="stars">
+  <br>
+  <img src="./assets/spacer.svg" height="14" alt="">
+  <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kalyanigoswami.kalyanigoswami&left_text=profile%20views&left_color=%23161b22&right_color=%2321262d" height="26" alt="profile views">&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/kalyanigoswami?label=followers&logo=github&logoColor=ff5c5c&labelColor=161b22&color=21262d&style=flat-square" height="26" alt="followers">&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/kalyanigoswami?affiliations=OWNER&label=stars&logo=github&logoColor=ff5c5c&labelColor=161b22&color=21262d&style=flat-square" height="26" alt="stars">
 </p>
 
 <br>
