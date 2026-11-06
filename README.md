@@ -76,9 +76,9 @@
 
 <!-- ───────────── 03 · THINGS I'VE BUILT ─────────────
      Terminal-style list of pinned projects. Clicking opens my repositories. -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/kalyanigoswami?tab=repositories"><img src="./assets/images/sections/05-projects.svg" width="100%" alt="03 Things I've built — pinned projects"></a>
-</p>
+</p> -->
 
 <br>
 
@@ -97,9 +97,9 @@
 <img src="./assets/images/headings/05-by-the-numbers.png" width="100%" alt="05 BY THE NUMBERS">
 
 <!-- Stats card: stars, commits, PRs, streak, followers -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/kalyanigoswami/kalyanigoswami/output/stats.svg" width="100%" alt="GitHub stats: stars, commits, pull requests, streak and followers">
-</p>
+</p> -->
 
 <!-- Contribution graph for the last 12 months, with Pac-Man eating along one row -->
 <p align="center">
